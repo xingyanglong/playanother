@@ -60,7 +60,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       enableHtml: false,
       fullStyle: [`/*
 * Inspired by http://strml.net/
-* 大家好，我是Maxwell
+* 大家好，我是Stone
 * 四月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
@@ -72,7 +72,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(237,14,121); background: rgb(176,244,66);
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -468,4 +468,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[7]);
-//# sourceMappingURL=app.90f22187a38ea461b3cc.js.map
+//# sourceMappingURL=app.eef5a44fb17048ff2568.js.map
