@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是Maxwell
+* 大家好，我是Stone
 * 四月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
@@ -36,7 +36,7 @@
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(237,14,121); background: rgb(176,244,66);
 }
 /* 文字离边框太近了 */
 .styleEditor {
